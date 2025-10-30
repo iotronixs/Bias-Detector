@@ -73,6 +73,7 @@ venv\Scripts\activate      # On Windows
 ### 🪜 3️⃣ Install Dependencies 
 ```bash
 pip install -r requirements.txt
+python -m spacy download en_core_web_sm
 ```
 
 ### 🪜 4️⃣ Run the App 
