@@ -40,7 +40,7 @@ Everything runs **locally** — no external API or cloud dependency.
 
 ## 🖼️ Screenshot
 
-![Bias Detector Screenshot Placeholder](https://via.placeholder.com/1000x500.png?text=Bias+Detector+App+Screenshot)
+![Bias Detector Screenshot Placeholder](assets/screenshot.png?text=Bias+Detector+App+Screenshot)
 
 > Example to replace when ready:
 > ```markdown
@@ -189,16 +189,6 @@ Divided into two columns — input/controls and dataset summary.
 Displays total entries, bias counts, and last 5 entries.
 
 </details>
-
----
-
-## 🖼️ Screenshot
-
-![Bias Detector Screenshot Placeholder](https://via.placeholder.com/1000x500.png?text=Bias+Detector+App+Screenshot)
-
->    ```markdown
->    ![Bias Detector Screenshot](assets/screenshot.png)
->    ```
 
 ---
 
