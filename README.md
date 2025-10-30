@@ -42,11 +42,6 @@ Everything runs **locally** — no external API or cloud dependency.
 
 ![Bias Detector Screenshot Placeholder](assets/screenshot.png?text=Bias+Detector+App+Screenshot)
 
-> Example to replace when ready:
-> ```markdown
-> ![Bias Detector Screenshot](assets/screenshot.png)
-> ```
-
 ---
 
 ## ⚙️ Installation & Setup
