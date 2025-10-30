@@ -8,7 +8,7 @@
 ---
 
 ### 👤 Developed by [**Jayesh**](https://www.instagram.com/jpg.py)  
-**LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN_ID](https://www.linkedin.com/in/YOUR_LINKEDIN_ID)  
+**LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN_ID]([https://www.linkedin.com/in/YOUR_LINKEDIN_ID](https://in.linkedin.com/in/jayesh-gautam-9ab98779))  
 🧩 *In collaboration with [CREATED Institute](https://www.instagram.com/created_institute)*  
 
 ---
